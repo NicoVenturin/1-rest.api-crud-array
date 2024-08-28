@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "name": "1-rest.api-crud-array",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node --watch app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
